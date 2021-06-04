@@ -1,0 +1,21 @@
+# IntellijIdea files
+*.iml
+.idea
+out
+build
+
+.gradle/
+/.idea/
+/gradle/
+build.gradle
+course-info.yaml
+course-remote-info.yaml
+gradlew
+gradlew.bat
+settings.gradle
+/Simple Chatty Bot/Chatty Bot welcomes you
+/Simple Chatty Bot/Guess the age
+/Simple Chatty Bot/Learning numbers
+/Simple Chatty Bot/Multiple choice
+/Simple Chatty Bot/Print your name/
+/Simple Chatty Bot/task/test/
